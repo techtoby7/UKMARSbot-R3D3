@@ -2,6 +2,6 @@
 
 ---
 
-<small><p><a href="https://github.com/techtoby7/UKMARSbot-R3D3">UKMARSbot-Peserverance</a> © 2026 by <a href="https://github.com/techtoby7">Toby Scott</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.</p></small>
+<small><p><a href="https://github.com/techtoby7/UKMARSbot-R3D3">UKMARSbot-R3D3</a> © 2026 by <a href="https://github.com/techtoby7">Toby Scott</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.</p></small>
 
 <small><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"></small>
